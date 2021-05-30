@@ -19,6 +19,6 @@ public class MyT {
         inputElement.sendKeys("'test");
         inputElement.submit();//回车
         driver.quit();
-        //test
+        //test2
     }
 }
